@@ -1,0 +1,7 @@
+{
+  "name": "Study Quest Garden",
+  "description": "An aesthetic bullet-journal study planner and AI quiz game with a growing garden and cute pet mascot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
